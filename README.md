@@ -17,16 +17,27 @@ Designed to reduce human error and assist in early, accurate diagnosis.
 
 ## 🛠️ Technologies Used
 Library         	Version
+
 Python          	3.11.9
+
 pandas	          2.2.3
+
 numpy	            2.1.3
+
 OpenCV          	4.10.0.84
+
 scikit-image     	0.24.0
+
 scikit-learn    	1.5.2
+
 matplotlib	      3.9.2
+
 seaborn	          0.11.2
+
 tqdm	            4.67.0
+
 joblib          	1.4.2
+
 Gradio	        
 
 ## 🧠 ML Models Used
@@ -74,6 +85,7 @@ Model predicts cancer presence based on clinical data
 
 ![Screenshot (82)](https://github.com/user-attachments/assets/15c36951-6e91-4ba2-b4f9-b204ff71d468)
 
+![image](https://github.com/user-attachments/assets/c823af74-275b-4ff6-9724-4edfc417a424)
 
 
 ## 🔮 Future Enhancements
