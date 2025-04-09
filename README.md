@@ -93,3 +93,17 @@ Aimed to support early diagnosis and reduce human interpretation error in lung c
 
 ☁️ Deploy as a web-based solution for hospital and clinical use
 
+----
+
+## 🙌 Acknowledgements
+
+We would like to thank our mentor **Ms. Prema Jain** for her constant support and guidance throughout the project.  
+Special thanks to MITE’s Department of CSE (IoT & Cybersecurity with Blockchain Technology) for the opportunity and resources provided.
+
+
+-----
+## 📬 Contact
+
+For feedback or collaboration opportunities, feel free to connect with us through GitHub.
+
+
