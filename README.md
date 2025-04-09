@@ -5,8 +5,7 @@
 ![Gradio UI](https://img.shields.io/badge/Interface-Gradio-orange)
 ![SVM Accuracy](https://img.shields.io/badge/SVM%20Accuracy-99.09%25-brightgreen)
 
-> A mini project developed by students of **Mangalore Institute of Technology & Engineering**,  
-> Department of CSE (IoT & Cybersecurity with Blockchain Technology)
+
 
 ---
 
